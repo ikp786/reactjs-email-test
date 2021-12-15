@@ -34,7 +34,7 @@ const Mailer = () => {
                 <input type="text" name="name" className="form-control" />
 
                 <label>E-mail</label>
-                <input type="email" name="email" className="form-control" />
+                <input type="email" name="user_email" className="form-control" />
 
                 <label>Message</label>
                 <textarea name="message" className="form-control" row="5"/>
